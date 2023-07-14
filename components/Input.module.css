@@ -1,0 +1,19 @@
+.input {
+  display: flex;
+}
+
+.newtodo {
+  flex: 1;
+  position: relative;
+  margin: 0;
+  font-size: 24px;
+}
+
+.button {
+  margin: 0;
+  padding: 10px;
+  color: #2f2bb5;
+  cursor: pointer;
+  font-size: 30px;
+  background-color: #00ff77;
+}
